@@ -1,7 +1,7 @@
 ### Lewis M. Goldenberg
-Student studying computer science at a university.
+A student studying computer science at a university.
 
-# Interests
+Interests
  - Cybersecurity
  - Generational Gap
  - Playing video games (maybe work on one some time)
