@@ -1,12 +1,5 @@
 ### Lewis M. Goldenberg
 A student studying computer science at a university.
-
-Interests
- - Cybersecurity
- - Quantum Computing
- - Game Theory
- - Video Game Anticheats
- - Playing video games (maybe work on one some time)
 <!--
 **lmgoldenberg/lmgoldenberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
